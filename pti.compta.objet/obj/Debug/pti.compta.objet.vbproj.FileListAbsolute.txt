@@ -1,0 +1,91 @@
+D:\dev\Visual Studio 2008\Projects\pti.compta.objet\pti.compta.objet\bin\Debug\pti.compta.objet.exe
+D:\dev\Visual Studio 2008\Projects\pti.compta.objet\pti.compta.objet\bin\Debug\pti.compta.objet.pdb
+D:\dev\Visual Studio 2008\Projects\pti.compta.objet\pti.compta.objet\bin\Debug\pti.compta.objet.xml
+D:\dev\Visual Studio 2008\Projects\pti.compta.objet\pti.compta.objet\obj\Debug\ResolveAssemblyReference.cache
+D:\dev\Visual Studio 2008\Projects\pti.compta.objet\pti.compta.objet\obj\Debug\pti.compta.objet.Main.resources
+D:\dev\Visual Studio 2008\Projects\pti.compta.objet\pti.compta.objet\obj\Debug\pti.compta.objet.Resources.resources
+D:\dev\Visual Studio 2008\Projects\pti.compta.objet\pti.compta.objet\obj\Debug\pti.compta.objet.vbproj.GenerateResource.Cache
+D:\dev\Visual Studio 2008\Projects\pti.compta.objet\pti.compta.objet\obj\Debug\pti.compta.objet.exe
+D:\dev\Visual Studio 2008\Projects\pti.compta.objet\pti.compta.objet\obj\Debug\pti.compta.objet.xml
+D:\dev\Visual Studio 2008\Projects\pti.compta.objet\pti.compta.objet\obj\Debug\pti.compta.objet.pdb
+D:\dev\Visual Studio 2008\Projects\pti.compta.objet\pti.compta.objet\obj\Debug\pti.compta.objet.AffichageCompte.resources
+D:\dev\Visual Studio 2008\Projects\pti.compta.objet\pti.compta.objet\obj\Debug\pti.compta.objet.AjouterCompte.resources
+D:\dev\Visual Studio 2008\Projects\pti.compta.objet\pti.compta.objet\obj\Debug\pti.compta.objet.SupprimerCompte.resources
+D:\dev\Visual Studio 2008\Projects\pti.compta.objet\pti.compta.objet\bin\Debug\Compta.accdb
+D:\dev\Visual Studio 2008\Projects\pti.compta.objet\pti.compta.objet\obj\Debug\pti.compta.objet.LigneAnalyse.resources
+F:\dev\VS\Visual Studio 2008\Projects\pti.compta.objet\pti.compta.objet\obj\Debug\pti.compta.objet.exe
+F:\dev\VS\Visual Studio 2008\Projects\pti.compta.objet\pti.compta.objet\obj\Debug\pti.compta.objet.xml
+F:\dev\VS\Visual Studio 2008\Projects\pti.compta.objet\pti.compta.objet\obj\Debug\pti.compta.objet.pdb
+F:\dev\VS\pti.compta.objet\pti.compta.objet\obj\Debug\pti.compta.objet.exe
+F:\dev\VS\pti.compta.objet\pti.compta.objet\obj\Debug\pti.compta.objet.xml
+F:\dev\VS\pti.compta.objet\pti.compta.objet\obj\Debug\pti.compta.objet.pdb
+F:\dev\VS\pti.compta.objet\pti.compta.objet\bin\Debug\Compta.accdb
+F:\dev\VS\pti.compta.objet\pti.compta.objet\bin\Debug\pti.compta.objet.exe
+F:\dev\VS\pti.compta.objet\pti.compta.objet\bin\Debug\pti.compta.objet.pdb
+F:\dev\VS\pti.compta.objet\pti.compta.objet\bin\Debug\pti.compta.objet.xml
+F:\dev\VS\pti.compta.objet\pti.compta.objet\obj\Debug\pti.compta.objet.vbprojResolveAssemblyReference.cache
+F:\dev\VS\pti.compta.objet\pti.compta.objet\obj\Debug\pti.compta.objet.AffichageCompte.resources
+F:\dev\VS\pti.compta.objet\pti.compta.objet\obj\Debug\pti.compta.objet.AjouterCompte.resources
+F:\dev\VS\pti.compta.objet\pti.compta.objet\obj\Debug\pti.compta.objet.LigneAnalyse.resources
+F:\dev\VS\pti.compta.objet\pti.compta.objet\obj\Debug\pti.compta.objet.Main.resources
+F:\dev\VS\pti.compta.objet\pti.compta.objet\obj\Debug\pti.compta.objet.Resources.resources
+F:\dev\VS\pti.compta.objet\pti.compta.objet\obj\Debug\pti.compta.objet.SupprimerCompte.resources
+F:\dev\VS\pti.compta.objet\pti.compta.objet\obj\Debug\pti.compta.objet.vbproj.GenerateResource.Cache
+D:\dev\VS\pti.compta.objet\pti.compta.objet\obj\Debug\pti.compta.objet.exe
+D:\dev\VS\pti.compta.objet\pti.compta.objet\obj\Debug\pti.compta.objet.xml
+D:\dev\VS\pti.compta.objet\pti.compta.objet\obj\Debug\pti.compta.objet.pdb
+D:\dev\VS\pti.compta.objet\pti.compta.objet\bin\Debug\Compta.accdb
+D:\dev\VS\pti.compta.objet\pti.compta.objet\bin\Debug\pti.compta.objet.exe
+D:\dev\VS\pti.compta.objet\pti.compta.objet\bin\Debug\pti.compta.objet.pdb
+D:\dev\VS\pti.compta.objet\pti.compta.objet\bin\Debug\pti.compta.objet.xml
+D:\dev\VS\pti.compta.objet\pti.compta.objet\obj\Debug\pti.compta.objet.vbprojResolveAssemblyReference.cache
+D:\dev\VS\pti.compta.objet\pti.compta.objet\obj\Debug\pti.compta.objet.AffichageCompte.resources
+D:\dev\VS\pti.compta.objet\pti.compta.objet\obj\Debug\pti.compta.objet.AjouterCompte.resources
+D:\dev\VS\pti.compta.objet\pti.compta.objet\obj\Debug\pti.compta.objet.LigneAnalyse.resources
+D:\dev\VS\pti.compta.objet\pti.compta.objet\obj\Debug\pti.compta.objet.Main.resources
+D:\dev\VS\pti.compta.objet\pti.compta.objet\obj\Debug\pti.compta.objet.Resources.resources
+D:\dev\VS\pti.compta.objet\pti.compta.objet\obj\Debug\pti.compta.objet.SupprimerCompte.resources
+D:\dev\VS\pti.compta.objet\pti.compta.objet\obj\Debug\pti.compta.objet.vbproj.GenerateResource.Cache
+F:\dev\VS\Compta\pti.compta.objet\obj\Debug\pti.compta.objet.exe
+F:\dev\VS\Compta\pti.compta.objet\obj\Debug\pti.compta.objet.xml
+F:\dev\VS\Compta\pti.compta.objet\obj\Debug\pti.compta.objet.pdb
+F:\dev\VS\Compta\pti.compta.objet\bin\Debug\pti.compta.objet.exe
+F:\dev\VS\Compta\pti.compta.objet\bin\Debug\pti.compta.objet.pdb
+F:\dev\VS\Compta\pti.compta.objet\bin\Debug\pti.compta.objet.xml
+F:\dev\VS\Compta\pti.compta.objet\obj\Debug\pti.compta.objet.vbprojResolveAssemblyReference.cache
+F:\dev\VS\Compta\pti.compta.objet\obj\Debug\pti.compta.objet.AffichageCompte.resources
+F:\dev\VS\Compta\pti.compta.objet\obj\Debug\pti.compta.objet.LigneAnalyse.resources
+F:\dev\VS\Compta\pti.compta.objet\obj\Debug\pti.compta.objet.Main.resources
+F:\dev\VS\Compta\pti.compta.objet\obj\Debug\pti.compta.objet.Resources.resources
+F:\dev\VS\Compta\pti.compta.objet\obj\Debug\pti.compta.objet.vbproj.GenerateResource.Cache
+F:\dev\VS\archive\ComptaOLD\pti.compta.objet\obj\Debug\pti.compta.objet.exe
+F:\dev\VS\archive\ComptaOLD\pti.compta.objet\obj\Debug\pti.compta.objet.xml
+F:\dev\VS\archive\ComptaOLD\pti.compta.objet\obj\Debug\pti.compta.objet.pdb
+F:\dev\VS\compta\pti.compta.objet\bin\Debug\data.accdb
+F:\dev\VS\compta - Copie\pti.compta.objet\obj\Debug\pti.compta.objet.exe
+F:\dev\VS\compta - Copie\pti.compta.objet\obj\Debug\pti.compta.objet.xml
+F:\dev\VS\compta - Copie\pti.compta.objet\obj\Debug\pti.compta.objet.pdb
+F:\dev\VS\compta - Copie\pti.compta.objet\bin\Debug\data.accdb
+F:\dev\VS\compta - Copie\pti.compta.objet\bin\Debug\pti.compta.objet.exe
+F:\dev\VS\compta - Copie\pti.compta.objet\bin\Debug\pti.compta.objet.pdb
+F:\dev\VS\compta - Copie\pti.compta.objet\bin\Debug\pti.compta.objet.xml
+F:\dev\VS\compta - Copie\pti.compta.objet\obj\Debug\pti.compta.objet.vbprojResolveAssemblyReference.cache
+F:\dev\VS\compta - Copie\pti.compta.objet\obj\Debug\pti.compta.objet.AffichageCompte.resources
+F:\dev\VS\compta - Copie\pti.compta.objet\obj\Debug\pti.compta.objet.LigneAnalyse.resources
+F:\dev\VS\compta - Copie\pti.compta.objet\obj\Debug\pti.compta.objet.Main.resources
+F:\dev\VS\compta - Copie\pti.compta.objet\obj\Debug\pti.compta.objet.Resources.resources
+F:\dev\VS\compta - Copie\pti.compta.objet\obj\Debug\pti.compta.objet.vbproj.GenerateResource.Cache
+F:\dev\VS\fini\compta\pti.compta.objet\obj\Debug\pti.compta.objet.exe
+F:\dev\VS\fini\compta\pti.compta.objet\obj\Debug\pti.compta.objet.xml
+F:\dev\VS\fini\compta\pti.compta.objet\obj\Debug\pti.compta.objet.pdb
+C:\Users\girar\Desktop\VS\fini\compta\pti.compta.objet\bin\Debug\data.accdb
+C:\Users\girar\Desktop\VS\fini\compta\pti.compta.objet\bin\Debug\pti.compta.objet.exe
+C:\Users\girar\Desktop\VS\fini\compta\pti.compta.objet\bin\Debug\pti.compta.objet.pdb
+C:\Users\girar\Desktop\VS\fini\compta\pti.compta.objet\obj\Debug\pti.compta.objet.vbprojResolveAssemblyReference.cache
+C:\Users\girar\Desktop\VS\fini\compta\pti.compta.objet\obj\Debug\pti.compta.objet.AffichageCompte.resources
+C:\Users\girar\Desktop\VS\fini\compta\pti.compta.objet\obj\Debug\pti.compta.objet.LigneAnalyse.resources
+C:\Users\girar\Desktop\VS\fini\compta\pti.compta.objet\obj\Debug\pti.compta.objet.Main.resources
+C:\Users\girar\Desktop\VS\fini\compta\pti.compta.objet\obj\Debug\pti.compta.objet.Resources.resources
+C:\Users\girar\Desktop\VS\fini\compta\pti.compta.objet\obj\Debug\pti.compta.objet.vbproj.GenerateResource.Cache
+C:\Users\girar\Desktop\VS\fini\compta\pti.compta.objet\obj\Debug\pti.compta.objet.exe
+C:\Users\girar\Desktop\VS\fini\compta\pti.compta.objet\obj\Debug\pti.compta.objet.pdb

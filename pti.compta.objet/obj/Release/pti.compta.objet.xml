@@ -1,0 +1,76 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+pti.compta.objet
+</name>
+</assembly>
+<members>
+<member name="M:pti.compta.objet.ClassBdd.LoadDb(System.String,System.String,System.String)">
+	<summary>
+ Permet de récupérer les données d'une table
+ </summary>
+	<param name="Sql">Requete SQL</param>
+	<param name="Table">Table de la base de donnée</param>
+	<param name="Base">Base de donnée</param>
+	<returns>La table dans le cache mémoire</returns>
+</member><member name="M:pti.compta.objet.ClassBdd.DeleteInDb(System.String,System.String)">
+	<summary>
+ Suppression de ligne dans la base de donnée
+ </summary>
+	<param name="Sql">Requete SQL</param>
+	<param name="Base">Base de donnée</param>
+	<remarks>L'index doit être récupéré précisément</remarks>
+</member><member name="M:pti.compta.objet.ClassBdd.SaveDb(System.String,System.String)">
+	<summary>
+ Permet d'ajouter des données à la base de donnée
+ </summary>
+	<param name="Sql">Requete SQL</param>
+	<param name="Base">Base de donnée</param>
+</member><member name="M:pti.compta.objet.ClassBdd.AddInDb(System.String[],System.String,System.String,System.String)">
+	<summary>
+ Permet d'ajouter des données à la base de donnée
+ </summary>
+	<param name="Datas">Données à ajouter</param>
+	<param name="Sql">Requete SQL</param>
+	<param name="Table">Table de la base de donnée</param>
+	<param name="Base">Base de donnée</param>
+</member><member name="M:pti.compta.objet.ClassBdd.SearchInDb(System.Data.DataTable,System.String,System.String)">
+	<summary>
+ Recherche de données dans une colonne d'une table d'une base de donnée
+ </summary>
+	<param name="dtt">Datatable</param>
+	<param name="Champs">Champs de la table</param>
+	<param name="data">Donnée à rechercher</param>
+	<returns>Le nombre de fois qu'il y a la donnée dans la table</returns>
+	<remarks>La casse ne rentre pas en compte</remarks>
+</member><member name="M:pti.compta.objet.ClassBdd.LoadDataSelected(System.String,System.String,System.String,System.String)">
+	<summary>
+ Permet de récupérer les données d'une cellule d'une table de la base de donnée
+ </summary>
+	<param name="Sql">Requete SQL</param>
+	<param name="Table">Table de la base de donnée</param>
+	<param name="Base">Base de donnée</param>
+	<param name="Champs">Champs de la table</param>
+	<remarks>La requete doit être précise et doit préciser la ligne ou la donnée se trouve</remarks>
+</member><member name="M:pti.compta.objet.ClassBdd.UpdateInDb(System.String,System.String,System.String,System.String,System.String,System.Int32)">
+	<summary>
+ Permet de modifier les données de la base de donnée
+ </summary>
+	<param name="data">Donnée à modifier</param>
+	<param name="Sql">Requete SQL</param>
+	<param name="Table">Table de la base de données</param>
+	<param name="Base">Base de données</param>
+	<param name="Champs">Champs de la table</param>
+	<param name="index">Index de la ligne</param>
+	<remarks>La récupération de l'index doit être précis et celui de la base de donnée et non celui du dtg, listbox ou encore combobox</remarks>
+</member><member name="M:pti.compta.objet.ClassBdd.GetIndexInDb(System.Data.DataTable,System.String,System.String)">
+	<summary>
+ Récupère l'index précis de la ligne demandé
+ </summary>
+	<param name="dtt">Datatable contenant la table de la base de donnée</param>
+	<param name="Champs">Champs de la table</param>
+	<param name="data">Donnée de l'index à récupérer</param>
+</member>
+</members>
+</doc>

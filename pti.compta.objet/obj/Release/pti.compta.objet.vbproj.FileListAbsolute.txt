@@ -1,0 +1,26 @@
+D:\dev\Visual Studio 2008\Projects\pti.compta.objet\pti.compta.objet\bin\Release\Compta.accdb
+D:\dev\Visual Studio 2008\Projects\pti.compta.objet\pti.compta.objet\bin\Release\pti.compta.objet.exe.manifest
+D:\dev\Visual Studio 2008\Projects\pti.compta.objet\pti.compta.objet\bin\Release\pti.compta.objet.application
+D:\dev\Visual Studio 2008\Projects\pti.compta.objet\pti.compta.objet\bin\Release\pti.compta.objet.exe
+D:\dev\Visual Studio 2008\Projects\pti.compta.objet\pti.compta.objet\bin\Release\pti.compta.objet.pdb
+D:\dev\Visual Studio 2008\Projects\pti.compta.objet\pti.compta.objet\bin\Release\pti.compta.objet.xml
+D:\dev\Visual Studio 2008\Projects\pti.compta.objet\pti.compta.objet\obj\Release\ResolveAssemblyReference.cache
+D:\dev\Visual Studio 2008\Projects\pti.compta.objet\pti.compta.objet\obj\Release\pti.compta.objet.AffichageCompte.resources
+D:\dev\Visual Studio 2008\Projects\pti.compta.objet\pti.compta.objet\obj\Release\pti.compta.objet.AjouterCompte.resources
+D:\dev\Visual Studio 2008\Projects\pti.compta.objet\pti.compta.objet\obj\Release\pti.compta.objet.Main.resources
+D:\dev\Visual Studio 2008\Projects\pti.compta.objet\pti.compta.objet\obj\Release\pti.compta.objet.Resources.resources
+D:\dev\Visual Studio 2008\Projects\pti.compta.objet\pti.compta.objet\obj\Release\pti.compta.objet.SupprimerCompte.resources
+D:\dev\Visual Studio 2008\Projects\pti.compta.objet\pti.compta.objet\obj\Release\pti.compta.objet.vbproj.GenerateResource.Cache
+D:\dev\Visual Studio 2008\Projects\pti.compta.objet\pti.compta.objet\obj\Release\pti.compta.objet.exe.manifest
+D:\dev\Visual Studio 2008\Projects\pti.compta.objet\pti.compta.objet\obj\Release\pti.compta.objet.application
+D:\dev\Visual Studio 2008\Projects\pti.compta.objet\pti.compta.objet\obj\Release\pti.compta.objet.exe
+D:\dev\Visual Studio 2008\Projects\pti.compta.objet\pti.compta.objet\obj\Release\pti.compta.objet.xml
+D:\dev\Visual Studio 2008\Projects\pti.compta.objet\pti.compta.objet\obj\Release\pti.compta.objet.pdb
+C:\Users\girar\Desktop\VS\fini\compta\pti.compta.objet\bin\Release\data.accdb
+C:\Users\girar\Desktop\VS\fini\compta\pti.compta.objet\bin\Release\pti.compta.objet.exe
+C:\Users\girar\Desktop\VS\fini\compta\pti.compta.objet\obj\Release\pti.compta.objet.AffichageCompte.resources
+C:\Users\girar\Desktop\VS\fini\compta\pti.compta.objet\obj\Release\pti.compta.objet.LigneAnalyse.resources
+C:\Users\girar\Desktop\VS\fini\compta\pti.compta.objet\obj\Release\pti.compta.objet.Main.resources
+C:\Users\girar\Desktop\VS\fini\compta\pti.compta.objet\obj\Release\pti.compta.objet.Resources.resources
+C:\Users\girar\Desktop\VS\fini\compta\pti.compta.objet\obj\Release\pti.compta.objet.vbproj.GenerateResource.Cache
+C:\Users\girar\Desktop\VS\fini\compta\pti.compta.objet\obj\Release\pti.compta.objet.exe
